@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1 style="color:green;">Jay Jagannath!</h1>
+		<h1 style="color:yellow;">Jay Maa Suvadra!</h1>
 	</body>
 </html>
